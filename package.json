@@ -50,6 +50,6 @@
     "protodef-yaml": "^1.5.3",
     "standard": "^17.0.0",
     "standard-markdown": "^7.1.0",
-    "typescript": "^5.4.5"
+    "typescript": "^7.0.2"
   }
 }
