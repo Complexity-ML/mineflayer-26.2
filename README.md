@@ -17,14 +17,14 @@ project, with a dedicated 26.2 compatibility stack.
 | Protocol | 776 |
 | Data version | 4903 |
 | Node.js | 22 or newer |
-| Package | `4.37.1+complexity.26.2.0` |
+| Package | `4.37.1+complexity.26.2.1` |
 
 ## Install
 
 The standalone package is distributed as a GitHub Release asset:
 
 ```bash
-npm install https://github.com/Complexity-ML/mineflayer-26.2/releases/download/complexity-26.2.0/mineflayer-complexity-26.2.0.tgz
+npm install https://github.com/Complexity-ML/mineflayer-26.2/releases/download/complexity-26.2.1/mineflayer-complexity-26.2.1.tgz
 ```
 
 Use the matching 26.2 builds of the protocol, data, chunk, and physics
