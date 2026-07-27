@@ -1,6 +1,6 @@
 {
   "name": "mineflayer",
-  "version": "4.37.1+complexity.26.2.2",
+  "version": "4.37.1+complexity.26.2.3",
   "description": "create minecraft bots with a stable, high level API",
   "main": "index.js",
   "types": "index.d.ts",
@@ -21,8 +21,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "minecraft-data": "https://github.com/Complexity-ML/node-minecraft-data-26.2/releases/download/complexity-26.2.4/minecraft-data-complexity-26.2.4.tgz",
-    "minecraft-protocol": "https://github.com/Complexity-ML/node-minecraft-protocol-26.2/releases/download/complexity-26.2.2/minecraft-protocol-complexity-26.2.2.tgz",
+    "minecraft-data": "https://github.com/Complexity-ML/node-minecraft-data-26.2/releases/download/complexity-26.2.5/minecraft-data-complexity-26.2.5.tgz",
+    "minecraft-protocol": "https://github.com/Complexity-ML/node-minecraft-protocol-26.2/releases/download/complexity-26.2.3/minecraft-protocol-complexity-26.2.3.tgz",
     "mojangson": "^2.0.4",
     "prismarine-biome": "^1.1.1",
     "prismarine-block": "^1.22.0",

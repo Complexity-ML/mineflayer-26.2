@@ -45,7 +45,7 @@ Install Node.js 22 or newer from [nodejs.org](https://nodejs.org/), then
 install the standalone GitHub Release asset:
 
 ```bash
-npm install https://github.com/Complexity-ML/mineflayer-26.2/releases/download/complexity-26.2.2/mineflayer-complexity-26.2.2.tgz
+npm install https://github.com/Complexity-ML/mineflayer-26.2/releases/download/complexity-26.2.3/mineflayer-complexity-26.2.3.tgz
 ```
 
 GAME LAB pins the matching versions of every 26.2 stack component.
