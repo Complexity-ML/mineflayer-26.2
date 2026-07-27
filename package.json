@@ -1,6 +1,6 @@
 {
   "name": "mineflayer",
-  "version": "4.37.1",
+  "version": "4.37.1+complexity.26.2.0",
   "description": "create minecraft bots with a stable, high level API",
   "main": "index.js",
   "types": "index.d.ts",
@@ -14,24 +14,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/PrismarineJS/mineflayer.git"
+    "url": "https://github.com/Complexity-ML/mineflayer-26.2.git"
   },
   "engines": {
     "node": ">=22"
   },
   "license": "MIT",
   "dependencies": {
-    "minecraft-data": "^3.108.0",
-    "minecraft-protocol": "^1.66.0",
+    "minecraft-data": "https://github.com/Complexity-ML/node-minecraft-data-26.2/releases/download/complexity-26.2.2/minecraft-data-complexity-26.2.2.tgz",
+    "minecraft-protocol": "https://github.com/Complexity-ML/node-minecraft-protocol-26.2/releases/download/complexity-26.2.0/minecraft-protocol-complexity-26.2.0.tgz",
     "mojangson": "^2.0.4",
     "prismarine-biome": "^1.1.1",
     "prismarine-block": "^1.22.0",
     "prismarine-chat": "^1.7.1",
-    "prismarine-chunk": "^1.39.0",
+    "prismarine-chunk": "https://github.com/Complexity-ML/prismarine-chunk-26.2/releases/download/complexity-26.2.0/prismarine-chunk-complexity-26.2.0.tgz",
     "prismarine-entity": "^2.5.0",
     "prismarine-item": "^1.17.0",
     "prismarine-nbt": "^2.0.0",
-    "prismarine-physics": "^1.9.0",
+    "prismarine-physics": "https://github.com/Complexity-ML/prismarine-physics-26.2/releases/download/complexity-26.2.0/prismarine-physics-complexity-26.2.0.tgz",
     "prismarine-recipe": "^1.5.0",
     "prismarine-registry": "^1.10.0",
     "prismarine-windows": "^2.9.0",
